@@ -1,8 +1,11 @@
 Technologies Used:
 
 HTML5: Used for structuring the web pages.
+
 CSS3: Used for styling and layout.
+
 Bootstrap 5.3: Utilized for responsive design and pre-styled components.
+
 JavaScript: Currently not used but can be integrated for interactivity if needed.
 
 Deployment:
